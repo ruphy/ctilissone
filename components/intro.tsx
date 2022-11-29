@@ -6,7 +6,7 @@ const Intro = () => {
           CTI Lissone
         </h1>
         <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-          <a href="/chi-siamo">La Compagnia Teatro Instabile di Lissone</a>
+          <a href="/chi-siamo">Compagnia Teatro Instabile di Lissone</a>
         </h4>
       </section>
     </>
