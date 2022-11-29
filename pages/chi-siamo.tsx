@@ -38,7 +38,7 @@ export default function Index({ allPosts }: Props) {
           compagnia.
           <br />
           <br />
-          <h4>Per info e prenotazioni - Tel. 039 2455601</h4>
+          <h4>Per info e prenotazioni - Tel. +39 3515245768</h4>
           <br />
           <br />
         </Container>
