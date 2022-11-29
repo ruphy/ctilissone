@@ -23,11 +23,11 @@ export default function Index({ allPosts }: Props) {
           Nata da una lunga tradizione teatrale sviluppatasi nel Cineteatro
           Excelsior di Lissone (MI) e dalle esperienze attorali e registiche di
           alcuni componenti anche a fianco di professionisti, la Compagnia
-          Teatro Instabile, conosciuta anche come C.T.I., si è costituita
+          Teatro Instabile, conosciuta anche come CTI, si è costituita
           associazione teatrale e culturale nel 1992.
           <br />
           <br />
-          C.T.I. è una associazione senza scopo di lucro che ha posto tra i
+          CTI è una associazione senza scopo di lucro che ha posto tra i
           propri oggetti sociali la produzione di spettacoli e rassegne
           teatrali, riconoscendo al teatro una triplice funzione: estetica,
           pedagogica e culturale. In quest'ultima accezione il teatro viene
