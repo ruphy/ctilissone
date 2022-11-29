@@ -20,7 +20,6 @@ export default function Index({ allPosts }: Props) {
         </Head>
         <Container>
           <Header />
-          <h1>Chi siamo?</h1>
           Nata da una lunga tradizione teatrale sviluppatasi nel Cineteatro
           Excelsior di Lissone (MI) e dalle esperienze attorali e registiche di
           alcuni componenti anche a fianco di professionisti, la Compagnia
